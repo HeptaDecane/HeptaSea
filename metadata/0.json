@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "base",
+      "value": "jellyfish"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "big"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "happy"
+    },
+    {
+      "trait_type": "level",
+      "value": 5
+    },
+    {
+      "trait_type": "stamina",
+      "value": 1.4
+    },
+    {
+      "trait_type": "personality",
+      "value": "happy"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "aqua_power",
+      "value": 10
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "stamina_increase",
+      "value": 5
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ],
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "external_url": "https://example.com/?token_id=0",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT8V2yPBHG7qFweUDw3px3kYDQX2CzwYUCw998pRFtZyV/0.png",
+  "name": "Herbie Starbelly"
+}

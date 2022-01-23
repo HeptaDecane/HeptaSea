@@ -1,0 +1,47 @@
+{
+  "attributes": [
+    {
+      "trait_type": "base",
+      "value": "starfish"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "wink"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "cute"
+    },
+    {
+      "trait_type": "level",
+      "value": 3
+    },
+    {
+      "trait_type": "stamina",
+      "value": 11.7
+    },
+    {
+      "trait_type": "personality",
+      "value": "boring"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "aqua_power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "stamina_increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    }
+  ],
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+  "external_url": "https://example.com/?token_id=7",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT8V2yPBHG7qFweUDw3px3kYDQX2CzwYUCw998pRFtZyV/7.png",
+  "name": "Sprinkles Fisherton"
+}
